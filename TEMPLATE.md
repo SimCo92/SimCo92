@@ -19,7 +19,7 @@ I've opened this GitHub account **{{ ACCOUNT_AGE }}** years ago.
 [//]: # (I've been contributing to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories!)
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SimCo92&hide=issues&show_icons=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SimCo92&show_icons=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SimCo92&show_icons=true" />
 </p>
 
