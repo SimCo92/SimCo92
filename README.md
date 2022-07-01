@@ -6,7 +6,7 @@ I've opened this GitHub account **6** years ago.
 
 [//]: # (Since then:)
 
-[//]: # (I've pushed **47** commits,)
+[//]: # (I've pushed **54** commits,)
 
 [//]: # (Opened **0** issues,)
 
@@ -18,10 +18,13 @@ I've opened this GitHub account **6** years ago.
 
 [//]: # (I've been contributing to **13** public repositories!)
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SimCo92&hide=issues&hide=stars&hide=prs&show_icons=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SimCo92&show_icons=true" />
-</p>
+[//]: # (<p align="center">)
+
+[//]: # (  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SimCo92&show_icons=true" />)
+
+[//]: # (  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SimCo92&show_icons=true" />)
+
+[//]: # (</p>)
 
 ### Contacts
 
