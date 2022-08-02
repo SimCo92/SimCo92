@@ -6,7 +6,7 @@ I've opened this GitHub account **6** years ago.
 
 [//]: # (Since then:)
 
-[//]: # (I've pushed **71** commits,)
+[//]: # (I've pushed **77** commits,)
 
 [//]: # (Opened **0** issues,)
 
@@ -41,7 +41,7 @@ I've opened this GitHub account **6** years ago.
 
 [//]: # ()
 
-[//]: # (![Jupyter Notebook]&#40;https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23DA5B0B&message=Jupyter%20Notebook%EF%B8%B14.6%25&#41;)
+[//]: # (![Jupyter Notebook]&#40;https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23DA5B0B&message=Jupyter%20Notebook%EF%B8%B14.7%25&#41;)
 
 [//]: # ()
 
@@ -67,7 +67,7 @@ I've opened this GitHub account **6** years ago.
 
 [//]: # ()
 
-[//]: # (![Jupyter Notebook]&#40;https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23DA5B0B&message=Jupyter%20Notebook%EF%B8%B14.6%25&#41;)
+[//]: # (![Jupyter Notebook]&#40;https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23DA5B0B&message=Jupyter%20Notebook%EF%B8%B14.7%25&#41;)
 
 [//]: # ()
 
