@@ -1,6 +1,5 @@
 ## Hi 👋 !
 Data Engineer consultant with academic background in industrial engineering.
-Currently reading "Data Mesh" by Zhamak Dehghani.
 
 I've opened this GitHub account **7** years ago.  
 
