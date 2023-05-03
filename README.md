@@ -1,12 +1,12 @@
 ## Hi 👋 !
 Data Engineer consultant with academic background in industrial engineering.
-Currently partecipating to TSOAI accelerator program.
+Currently reading "Data Mesh" by Zhamak Dehghani.
 
 I've opened this GitHub account **7** years ago.  
 
 [//]: # (Since then:)
 
-[//]: # (I've pushed **114** commits,)
+[//]: # (I've pushed **115** commits,)
 
 [//]: # (Opened **1** issues,)
 
