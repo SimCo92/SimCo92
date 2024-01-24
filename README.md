@@ -37,7 +37,7 @@ I've opened this GitHub account **8** years ago.
 [//]: # ()
 [//]: # ()
 
-[//]: # (![Python]&#40;https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B191.4%25&#41;)
+[//]: # (![Python]&#40;https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B190.9%25&#41;)
 
 [//]: # ()
 
@@ -53,11 +53,15 @@ I've opened this GitHub account **8** years ago.
 
 [//]: # ()
 
+[//]: # (![JavaScript]&#40;https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B10.4%25&#41;)
+
+[//]: # ()
+
 [//]: # (![TeX]&#40;https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233D6117&message=TeX%EF%B8%B10.3%25&#41;)
 
 [//]: # ()
 
-[//]: # (![Other]&#40;https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B10.2%25&#41;)
+[//]: # (![Other]&#40;https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B10.3%25&#41;)
 
 [//]: # ()
 
@@ -67,7 +71,7 @@ I've opened this GitHub account **8** years ago.
 [//]: # ()
 [//]: # ()
 
-[//]: # (![Python]&#40;https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B191.4%25&#41;)
+[//]: # (![Python]&#40;https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B190.9%25&#41;)
 
 [//]: # ()
 
@@ -83,6 +87,6 @@ I've opened this GitHub account **8** years ago.
 
 [//]: # ()
 
-[//]: # (![Other]&#40;https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B10.6%25&#41;)
+[//]: # (![Other]&#40;https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B11.1%25&#41;)
 
 [//]: # ()
