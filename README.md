@@ -6,7 +6,7 @@ I've opened this GitHub account **8** years ago.
 
 [//]: # (Since then:)
 
-[//]: # (I've pushed **468** commits,)
+[//]: # (I've pushed **469** commits,)
 
 [//]: # (Opened **1** issues,)
 
@@ -37,7 +37,7 @@ I've opened this GitHub account **8** years ago.
 [//]: # ()
 [//]: # ()
 
-[//]: # (![Python]&#40;https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B190.9%25&#41;)
+[//]: # (![Python]&#40;https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B190.8%25&#41;)
 
 [//]: # ()
 
@@ -61,6 +61,10 @@ I've opened this GitHub account **8** years ago.
 
 [//]: # ()
 
+[//]: # (![HCL]&#40;https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23844FBA&message=HCL%EF%B8%B10.1%25&#41;)
+
+[//]: # ()
+
 [//]: # (![Other]&#40;https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B10.3%25&#41;)
 
 [//]: # ()
@@ -71,7 +75,7 @@ I've opened this GitHub account **8** years ago.
 [//]: # ()
 [//]: # ()
 
-[//]: # (![Python]&#40;https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B190.9%25&#41;)
+[//]: # (![Python]&#40;https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B190.8%25&#41;)
 
 [//]: # ()
 
@@ -87,6 +91,6 @@ I've opened this GitHub account **8** years ago.
 
 [//]: # ()
 
-[//]: # (![Other]&#40;https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B11.1%25&#41;)
+[//]: # (![Other]&#40;https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B11.2%25&#41;)
 
 [//]: # ()
