@@ -14,7 +14,7 @@ I've opened this GitHub account **8** years ago.
 
 [//]: # (Reviewed **1**!)
 
-[//]: # (So far I've received **0** stars ⭐.)
+[//]: # (So far I've received **1** stars ⭐.)
 
 [//]: # (I've been contributing to **25** public repositories!)
 
