@@ -12,11 +12,11 @@ I've opened this GitHub account **8** years ago.
 
 [//]: # (Submitted **55** pull requests,)
 
-[//]: # (Reviewed **1**!)
+[//]: # (Reviewed **2**!)
 
 [//]: # (So far I've received **2** stars ⭐.)
 
-[//]: # (I've been contributing to **25** public repositories!)
+[//]: # (I've been contributing to **26** public repositories!)
 
 [//]: # (<p align="center">)
 
