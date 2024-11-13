@@ -10,13 +10,13 @@ I've opened this GitHub account **8** years ago.
 
 [//]: # (Opened **1** issues,)
 
-[//]: # (Submitted **88** pull requests,)
+[//]: # (Submitted **89** pull requests,)
 
 [//]: # (Reviewed **2**!)
 
 [//]: # (So far I've received **2** stars ⭐.)
 
-[//]: # (I've been contributing to **21** public repositories!)
+[//]: # (I've been contributing to **20** public repositories!)
 
 [//]: # (<p align="center">)
 
