@@ -10,7 +10,7 @@ I've opened this GitHub account **8** years ago.
 
 [//]: # (Opened **1** issues,)
 
-[//]: # (Submitted **96** pull requests,)
+[//]: # (Submitted **98** pull requests,)
 
 [//]: # (Reviewed **2**!)
 
