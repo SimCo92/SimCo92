@@ -12,7 +12,7 @@ I've opened this GitHub account **9** years ago.
 
 [//]: # (Submitted **175** pull requests,)
 
-[//]: # (Reviewed **16**!)
+[//]: # (Reviewed **17**!)
 
 [//]: # (So far I've received **2** stars ⭐.)
 
