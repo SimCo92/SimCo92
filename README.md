@@ -1,18 +1,18 @@
 ## Hi 👋 !
 Data Engineer consultant with academic background in industrial engineering.
-
+Currently reading "Data Mesh" by Zhamak Dehghani.
 
 I've opened this GitHub account **9** years ago.  
 
 [//]: # (Since then:)
 
-[//]: # (I've pushed **1322** commits,)
+[//]: # (I've pushed **1324** commits,)
 
 [//]: # (Opened **1** issues,)
 
 [//]: # (Submitted **190** pull requests,)
 
-[//]: # (Reviewed **18**!)
+[//]: # (Reviewed **19**!)
 
 [//]: # (So far I've received **2** stars ⭐.)
 
