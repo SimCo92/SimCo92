@@ -16,7 +16,7 @@ I've opened this GitHub account **9** years ago.
 
 [//]: # (So far I've received **3** stars ⭐.)
 
-[//]: # (I've been contributing to **22** public repositories!)
+[//]: # (I've been contributing to **21** public repositories!)
 
 [//]: # (<p align="center">)
 
