@@ -2,7 +2,7 @@
 Data Engineer consultant with academic background in industrial engineering.
 Currently reading "Data Mesh" by Zhamak Dehghani.
 
-I've opened this GitHub account **9** years ago.  
+I've opened this GitHub account **10** years ago.  
 
 [//]: # (Since then:)
 
@@ -10,7 +10,7 @@ I've opened this GitHub account **9** years ago.
 
 [//]: # (Opened **1** issues,)
 
-[//]: # (Submitted **288** pull requests,)
+[//]: # (Submitted **289** pull requests,)
 
 [//]: # (Reviewed **25**!)
 
