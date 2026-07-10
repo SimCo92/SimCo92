@@ -6,17 +6,17 @@ I've opened this GitHub account **10** years ago.
 
 [//]: # (Since then:)
 
-[//]: # (I've pushed **2321** commits,)
+[//]: # (I've pushed **2362** commits,)
 
-[//]: # (Opened **3** issues,)
+[//]: # (Opened **5** issues,)
 
-[//]: # (Submitted **765** pull requests,)
+[//]: # (Submitted **773** pull requests,)
 
-[//]: # (Reviewed **69**!)
+[//]: # (Reviewed **80**!)
 
 [//]: # (So far I've received **5** stars ⭐.)
 
-[//]: # (I've been contributing to **47** public repositories!)
+[//]: # (I've been contributing to **48** public repositories!)
 
 [//]: # (<p align="center">)
 
