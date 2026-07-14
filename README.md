@@ -6,11 +6,11 @@ I've opened this GitHub account **10** years ago.
 
 [//]: # (Since then:)
 
-[//]: # (I've pushed **2374** commits,)
+[//]: # (I've pushed **2403** commits,)
 
 [//]: # (Opened **6** issues,)
 
-[//]: # (Submitted **774** pull requests,)
+[//]: # (Submitted **779** pull requests,)
 
 [//]: # (Reviewed **80**!)
 
@@ -41,7 +41,7 @@ I've opened this GitHub account **10** years ago.
 
 [//]: # ()
 
-[//]: # (![Jupyter Notebook]&#40;https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23DA5B0B&message=Jupyter%20Notebook%EF%B8%B14.6%25&#41;)
+[//]: # (![Jupyter Notebook]&#40;https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23DA5B0B&message=Jupyter%20Notebook%EF%B8%B14.5%25&#41;)
 
 [//]: # ()
 
@@ -79,7 +79,7 @@ I've opened this GitHub account **10** years ago.
 
 [//]: # ()
 
-[//]: # (![Jupyter Notebook]&#40;https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23DA5B0B&message=Jupyter%20Notebook%EF%B8%B14.6%25&#41;)
+[//]: # (![Jupyter Notebook]&#40;https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23DA5B0B&message=Jupyter%20Notebook%EF%B8%B14.5%25&#41;)
 
 [//]: # ()
 
